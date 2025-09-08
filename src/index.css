@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+
+.mycontainer { @apply container  text-lg  text-center  p-4 mx-auto  max-w-4xl  }
