@@ -165,7 +165,7 @@ const Manager = () => {
                                             ? 'public/icon/hidden.png'
                                             : 'public/icon/eye.png'
                                     }
-                                    alt="toggle password"
+                                    alt=""
                                 />
                             </span>
                         </div>
